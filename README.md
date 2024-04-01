@@ -1,0 +1,2 @@
+# mbti
+sample mbti
